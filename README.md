@@ -11,3 +11,5 @@ Telegram
 id : @PyThon_Crazy_coder
 - 😄 Pronouns: ...
 - ⚡ Fun fact: there is no funny fact in my real life xd
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoxfox)](https://github.com/anuraghazra/github-readme-stats)
