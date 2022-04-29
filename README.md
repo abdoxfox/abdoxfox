@@ -8,7 +8,7 @@
 - 💬 Ask me about me :v
 - 📫 How to reach me: 
 Telegram 
-id : @PyThon_Crazy_coder
+id : @Abdoxfox_official
 - 😄 Pronouns: ...
 - ⚡ Fun fact: there is no funny fact in my real life xd
 
