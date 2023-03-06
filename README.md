@@ -8,7 +8,7 @@
 - 💬 Ask me about me :v
 - 📫 How to reach me: 
 Telegram 
-id : @Abdoxfox_official
+id : @phreakingboss
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoxfox)](https://github.com/anuraghazra/github-readme-stats)
